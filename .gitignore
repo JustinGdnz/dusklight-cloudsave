@@ -1,0 +1,17 @@
+# Ignore all the shit
+*
+
+# Wtv this does lol
+!*/
+!.gitignore
+
+# Ts more important than my whole life gang
+!EUR/**
+!USA/**
+
+# Shit important too
+!achievements.json
+
+# 🥀
+# !config.json
+# !keyboard_bindings.dat
